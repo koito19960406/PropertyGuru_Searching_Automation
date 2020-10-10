@@ -1,3 +1,0 @@
-EMAIL_ADDRESS_SENDER = "koito19960406@gmail.com"
-EMAIL_ADDRESS_RECEIVER="cxy285@outlook.com"
-PASSWORD = "as2357df"
